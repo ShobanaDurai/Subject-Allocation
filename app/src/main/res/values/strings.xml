@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Subjectallocation</string>
+    <string name="col1">SUBJECT</string>
+    <string name="col2">CODE</string>
+    <string name="col3">ACRONYM</string>
+    <string name="row1Subject">Artifical Intelligence</string>
+    <string name="row1Code">20SSP041</string>
+    <string name="row1Acronym">AI</string>
+    <string name="row2Subject">Moblie Computing</string>
+    <string name="row2Code">20SSP040</string>
+    <string name="row2Acronym">MC</string>
+    <string name="row3Subject">Unix Programming</string>
+    <string name="row3Code">20SSP042</string>
+    <string name="row3Acronym">UP</string>
+    <string name="row4Acronym">CC</string>
+    <string name="row4Code">20SSP043</string>
+    <string name="row4Subject">Cloud Computing</string>
+    <string name="row5Acronym">SPM</string>
+    <string name="row5Code">20SSP045</string>
+    <string name="row5Subject">Software Project Management</string>
+</resources>

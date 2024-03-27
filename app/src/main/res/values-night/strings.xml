@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="col2">SUBJECT</string>
+    <string name="col3">CODE</string>
+    <string name="col4">SHORT FORM</string>
+    <string name="row2Subject">Moblie Computing</string>
+    <string name="row2Code">20SSP040</string>
+    <string name="row2Acronym">MC</string>
+    <string name="row3Subject">Unix Programming</string>
+    <string name="row3Code">20SSP042</string>
+    <string name="row3Acronym">UP</string>
+    <string name="row4Acronym">CC</string>
+    <string name="row4Code">20SSP43</string>
+    <string name="row4Subject">Cloud Computing</string>
+    <string name="row5Acronym">SPM</string>
+    <string name="row5Code">20SSP45</string>
+    <string name="row5Subject">Software Project Management</string>
+</resources>
